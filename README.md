@@ -1,4 +1,4 @@
 learning-java
 =============
 
-学习Java
+Learn something, not only Java!
